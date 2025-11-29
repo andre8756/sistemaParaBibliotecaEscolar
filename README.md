@@ -39,7 +39,7 @@ Desenvolver um sistema web para otimizar e facilitar o gerenciamento do acervo d
 
 ### **Time de Professores / Banca:**  
 - Orientador: *Prof. Ricardo Romero Maranhão Castro*  
-- Projeto de Software: *Prof. Marcos Rodrigo Momo*  
+- Projeto de Software: *Prof. Marcos Rodrigo Momo / Prof. Oscar Steffen Junior*  
 - Práticas de Desenvolvimento de Sistemas IV: *Prof. Antônio Carlos Nicolodi*  
 - Modelagem de Sistemas UML: *Prof. Wesley Falcao Silva*  
 - Treinamento Interpessoal: *Prof. André Ricardo Naatz*
